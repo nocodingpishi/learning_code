@@ -1,12 +1,4 @@
 import sys
 
-print(sys.argv)
-
-arg1 = sys.argv[1]
-arg2 = sys.argv[2]
-
-my_dict = {
-  "1": "hello",
-  "2": "bye"
-}
-print(my_dict[arg2])
+# Make a program (write commands so that it) that takes a name after python ./test.py and displays the name as "Hello (name)" in the output
+# Google about sys library python if you need. Interesting keywords (argument, outputting, string operations)
